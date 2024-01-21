@@ -207,4 +207,4 @@ class Program
     }
 }
 
-//code wont work if you run it since too many static void thingy on each doe which will def not let it run and will just go error so run it separately 
+//code wont work if you run it since too many static void thingy on each code which will def not let it run and will just go error so run it separately 
